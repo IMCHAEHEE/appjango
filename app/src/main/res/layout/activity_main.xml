@@ -30,4 +30,20 @@
         tools:layout_editor_absoluteX="335dp"
         tools:layout_editor_absoluteY="29dp" />
 
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        app:srcCompat="@drawable/ic_baseline_shopping_bag_24"
+        tools:layout_editor_absoluteX="322dp"
+        tools:layout_editor_absoluteY="267dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton9"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        app:srcCompat="@drawable/ic_baseline_photo_camera_24"
+        tools:layout_editor_absoluteX="322dp"
+        tools:layout_editor_absoluteY="172dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
