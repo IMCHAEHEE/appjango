@@ -46,6 +46,10 @@
         tools:layout_editor_absoluteX="322dp"
         tools:layout_editor_absoluteY="172dp" />
 
+
+
+
+
     <TableLayout
         android:layout_width="280dp"
         android:layout_height="600dp"
@@ -98,6 +102,7 @@
                 android:textSize="20sp" />
 
         </TableRow>
+
     </TableLayout>
 
     <ImageButton
@@ -109,4 +114,8 @@
         tools:layout_editor_absoluteY="621dp" />
 
 
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+
